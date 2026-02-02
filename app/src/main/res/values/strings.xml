@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">oving2RegneOppgave</string>
+
+
+    <string name="btn_adder">Adder</string>
+    <string name="btn_multipliser">Multipliser</string>
+
+
+    <string name="inp_label_svar">Svar:</string>
+    <string name="inp_label_ovre_grense">Øvre grense:</string>
+
+
+    <string name="resp_riktig">Riktig!</string>
+    <string name="resp_feil">Feil. Riktig svar er </string>
+
+
+</resources>
